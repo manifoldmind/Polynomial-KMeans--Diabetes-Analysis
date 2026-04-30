@@ -38,7 +38,7 @@
 
 1. **Клонировать репозиторий**
    ```bash
-   git clone https://github.com/your-username/Polynomial-KMeans--Diabetes-Analysis.git
+   git clone https://github.com/manifoldmind/Polynomial-KMeans--Diabetes-Analysis.git
    cd Polynomial-KMeans--Diabetes-Analysis
 
    2. **Установить зависимости**
