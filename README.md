@@ -91,9 +91,8 @@
 - Примеры из лабораторных работ: [обработка данных](https://colab.research.google.com/drive/1OgH-OFOWOeXW24MYUrnBLorl_PqbanOf), [полиномиальная регрессия](https://colab.research.google.com/drive/1sA0axAMuSDaDEaZngfv16mpMrvcklMC5), [кластеризация](https://colab.research.google.com/drive/1H-f81Ih8m3h_fRlmyx2-mpZ4bZr6WKYI)
 
 ## 👨‍💻 Автор
-[Ваше имя] – студент [группа, курс]  
-GitHub: [your-username]
-```
+GitHub: [manifoldmind](https://github.com/manifoldmind)
+
 
 ## 📦 Файл `requirements.txt`
 ```
